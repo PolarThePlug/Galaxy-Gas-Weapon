@@ -1,6 +1,13 @@
 # Standalone FiveM Addon Weapon
 This weapon works for all inventories and frameworks
 
+# Install instructions 
+
+Instructions are provided in the file for the following inventories
+* QB
+* OX
+* QS
+
 # Dependencies 
 None
 
